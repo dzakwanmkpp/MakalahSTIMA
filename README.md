@@ -1,4 +1,4 @@
-# Maximizing Profit in Charizard Pokémon Card PSA Grading Submissions: A 0/1 Knapsack Dynamic Programming Approach
+# Maximizing Profit in Charizard Pokémon Card PSA Grading: A Comparative Analysis of 0/1 Knapsack DP and Greedy Heuristics. 
 
 **Author:** Dzakwan Muhammad Khairan Putra Purnama (13524145)  
 **Course:** IF2211 Strategi Algoritma - Institut Teknologi Bandung  
