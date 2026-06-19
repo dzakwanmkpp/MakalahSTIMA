@@ -53,4 +53,4 @@ Dari eksperimen dataset Charizard ini, algoritma **Greedy berhasil mencapai prof
 
 ## 🔗 Tautan Penting
 - **Video Presentasi YouTube:** `[Masukkan Tautan Video]`
-- **Dokumen Makalah (PDF):** `[Masukkan Tautan Makalah]`
+- **Dokumen Makalah (PDF):** `[[Masukkan Tautan Makalah](https://docs.google.com/document/d/1bUlDJ2LarCvVofad8kf1dycFIbH082L-A_tqehkdOQY/edit?tab=t.0)]`
