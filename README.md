@@ -52,5 +52,6 @@ python generate_chart.py
 Dari eksperimen dataset Charizard ini, algoritma **Greedy berhasil mencapai profit maksimal yang sama persis (100% konvergen) dengan Dynamic Programming** di semua skenario modal, namun dengan waktu komputasi yang **~275 kali lebih cepat** pada modal maksimal. Hal ini membuktikan bahwa metode heuristik sangat efisien untuk dataset TCG dengan distribusi harga tertentu.
 
 ## 🔗 Tautan Penting
-- **Video Presentasi YouTube:** `[Masukkan Tautan Video]`
+- **Video Presentasi YouTube:** `[(https://youtu.be/7YWlAnzAkkY?si=f4-sr5Xksyn8RER1)]`
 - **Dokumen Makalah (PDF):** `[(https://docs.google.com/document/d/1bUlDJ2LarCvVofad8kf1dycFIbH082L-A_tqehkdOQY/edit?tab=t.0)]`
+- - **Presentasi Power Point:** `[(https://docs.google.com/presentation/d/1tLo5kHRr5z2iaI1jxWBKeqmxX3Nh0sUwuufqndnLvuQ/edit?usp=sharing )]`
