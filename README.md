@@ -13,7 +13,7 @@ Penelitian ini memodelkan proses *grading* sebagai masalah **0/1 Knapsack** dan 
 ## 🗂️ Struktur Repositori
 - `main.py` : Skrip utama berisi implementasi algoritma DP dan Greedy, serta fungsi untuk mengeksekusi skenario komparasi.
 - `generate_chart.py` : Skrip untuk menghasilkan visualisasi *Bar Chart* perbandingan waktu eksekusi.
-- `dataset_charizard_75_final.csv` : Dataset empiris berisi 75 kartu Charizard beserta metrik biaya grading dan estimasi profit.
+- `dataset_charizard_75_final.csv` : Dataset empiris berisi 75 kartu Charizard beserta metrik biaya grading dan estimasi profit based on PriceCharting.
 - `requirements.txt` : Daftar dependensi Python yang dibutuhkan (`pandas`, `matplotlib`, `numpy`).
 - `Fig5_Execution_Time_Comparison.png` : Hasil *plot* grafik komparasi waktu komputasi.
 
