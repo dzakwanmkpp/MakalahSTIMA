@@ -17,7 +17,7 @@ Penelitian ini memodelkan proses *grading* sebagai masalah **0/1 Knapsack** dan 
 - `requirements.txt` : Daftar dependensi Python yang dibutuhkan (`pandas`, `matplotlib`, `numpy`).
 - `Fig5_Execution_Time_Comparison.png` : Hasil *plot* grafik komparasi waktu komputasi.
 
-## 🚀 Cara Menjalankan Program
+## Cara Menjalankan Program
 
 ### 1. Persiapan Lingkungan (Virtual Environment)
 Disarankan menggunakan *virtual environment* agar dependensi terisolasi:
